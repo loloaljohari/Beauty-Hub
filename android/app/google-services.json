@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110184646423",
+    "project_id": "beauty-hub-32a6c",
+    "storage_bucket": "beauty-hub-32a6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110184646423:android:b574ba460cd15d34bad952",
+        "android_client_info": {
+          "package_name": "com.example.beautyhup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXCUQLgl9VgnI_WTibjMTk6_fitEnRmNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
